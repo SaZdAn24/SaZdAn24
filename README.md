@@ -10,7 +10,8 @@
 
 <p align="center">
  🌍 Based in Poland <br/>
- ✉️ You can contact me at <a href="mailto:sazdaniil2409@gmail.com">sazdaniil2409@gmail.com</a>
+ <a href="sazdaniil2409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 ------------------
