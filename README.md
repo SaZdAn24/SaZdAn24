@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### <div align="center">I'm Deniel a Frontend developer 👨‍💻</div>  
+### <div align="center">Frontend developer with 1.5 years of commercial experience. I have worked in teams ranging from 2 to 6 people (development, design, testing, product management). I possess deep knowledge in React and Node.js, and can work effectively both independently and as part of a team. My goal is to create high-quality and high-performance solutions that meet business requirements. I strive to bring real value to businesses through my work and continuously improve my skills.</div>  
   
 
 - 🛒 I’m currently working on  Online store using React  
